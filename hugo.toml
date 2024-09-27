@@ -2,3 +2,39 @@ baseURL = 'https://StephanNoll.github.io/Kacken-auf-Wacken/'
 languageCode = 'de-DE'
 title = 'Kacken auf Wacken'
 theme = "hugo-blog-awesome"
+defaultColor = "dark"
+
+
+[services]
+# To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
+# To disable Google Analytics, simply leave the field empty or remove the next two lines
+  [services.googleAnalytics]
+    id = '' # G-MEASUREMENT_ID
+
+[params]
+  goToTop = true
+
+
+[params.menu]
+[[params.menu.main]]
+  pageRef="/"
+  name = 'Startseite'
+  url = '/'
+  weight = 10
+
+[params.author]
+  avatar = "avatar.jpg"
+  intro = "Kacken auf Wacken"
+  name = "Stephan Noll"
+  description = "Ein kleines aber feines Kartenspiel über das Kacken auf Wacken!"
+
+
+
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/StephanNoll"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "index.xml"

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kacken auf Wacken</title>
-    <link>http://localhost:1313/Kacken-auf-Wacken/</link>
-    <description>Recent content on Kacken auf Wacken</description>
+    <title>Posts on Kacken auf Wacken</title>
+    <link>http://localhost:1313/Kacken-auf-Wacken/posts/</link>
+    <description>Recent content in Posts on Kacken auf Wacken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 27 Sep 2024 14:17:10 +0200</lastBuildDate><atom:link href="http://localhost:1313/Kacken-auf-Wacken/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Sep 2024 14:17:10 +0200</lastBuildDate><atom:link href="http://localhost:1313/Kacken-auf-Wacken/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kacken auf Wacken ist da!</title>
       <link>http://localhost:1313/Kacken-auf-Wacken/posts/202409271417/</link>
