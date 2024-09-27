@@ -1,3 +1,4 @@
 baseURL = 'https://StephanNoll.github.io/Kacken-auf-Wacken/'
 languageCode = 'de-DE'
 title = 'Kacken auf Wacken'
+theme = "hugo-blog-awesome"
