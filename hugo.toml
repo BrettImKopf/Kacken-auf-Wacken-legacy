@@ -23,7 +23,7 @@ defaultColor = "light"
   weight = 10
 
 [params.author]
-  avatar = "avatar.jpg"
+  avatar = "Titel.jpg"
   intro = "Kacken auf Wacken"
   name = "Stephan Noll"
   description = "Ein kleines aber feines Kartenspiel über das Kacken auf Wacken!"
