@@ -2,7 +2,7 @@ baseURL = 'https://brettimkopf.github.io/Kacken-auf-Wacken/'
 languageCode = 'de-DE'
 title = 'Kacken auf Wacken'
 theme = "hugo-blog-awesome"
-defaultColor = "dark"
+defaultColor = "light"
 
 
 [services]
@@ -33,7 +33,7 @@ defaultColor = "dark"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/StephanNoll"
+url = "https://github.com/BrettImKopf"
 
 [[params.socialIcons]]
 name = "Rss"
