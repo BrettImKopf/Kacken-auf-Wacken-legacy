@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kacken auf Wacken</title>
-    <link>http://localhost:1313/Kacken-auf-Wacken/posts/</link>
+    <link>https://brettimkopf.github.io/Kacken-auf-Wacken/posts/</link>
     <description>Recent content in Posts on Kacken auf Wacken</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Fri, 27 Sep 2024 14:17:10 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/Kacken-auf-Wacken/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brettimkopf.github.io/Kacken-auf-Wacken/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kacken auf Wacken ist da!</title>
-      <link>http://localhost:1313/Kacken-auf-Wacken/posts/202409271417/</link>
+      <link>https://brettimkopf.github.io/Kacken-auf-Wacken/posts/202409271417/</link>
       <pubDate>Fri, 27 Sep 2024 14:17:10 +0200</pubDate>
-      <guid>http://localhost:1313/Kacken-auf-Wacken/posts/202409271417/</guid>
+      <guid>https://brettimkopf.github.io/Kacken-auf-Wacken/posts/202409271417/</guid>
       <description>Tach Herzlich willkommen auf der Seite Kacken auf Wacken. Hier wird sich in den nächsten Tagen viel tun! Also mehr Text z.B. Also bis bald!</description>
     </item>
   </channel>
