@@ -1,26 +1,36 @@
 baseURL = 'https://brettimkopf.github.io/Kacken-auf-Wacken/'
-languageCode = 'de-DE'
+languageCode = 'de-de'
 title = 'Kacken auf Wacken'
 theme = "hugo-blog-awesome"
-defaultColor = "light"
+
 
 
 [services]
 # To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
 # To disable Google Analytics, simply leave the field empty or remove the next two lines
-  [services.googleAnalytics]
-    id = '' # G-MEASUREMENT_ID
+[services.googleAnalytics]
+  id = '' # G-MEASUREMENT_ID
 
 [params]
   goToTop = true
+  defaultColor = "light"
 
-
-[params.menu]
-[[params.menu.main]]
+[menu]
+[[menu.main]]
   pageRef="/"
   name = 'Startseite'
   url = '/'
   weight = 10
+[[menu.main]]
+  pageRef="posts"
+  name = 'Beiträge'
+  url = '/posts/'
+  weight = 20
+[[menu.main]]
+  pageRef="about"
+  name = 'Über mich'
+  url = '/about/'
+  weight = 30
 
 [params.author]
   avatar = "Titel.png"
