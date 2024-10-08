@@ -16,11 +16,11 @@
       <description>Tach auch Herzlich willkommen auf der Seite Kacken auf Wacken. Hier wird sich in den nächsten Tagen viel tun! Also mehr Text z.B. Also bis bald!</description>
     </item>
     <item>
-      <title>Übersicht</title>
+      <title></title>
       <link>https://brettimkopf.github.io/Kacken-auf-Wacken/overview/</link>
-      <pubDate>Fri, 27 Sep 2024 14:17:10 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://brettimkopf.github.io/Kacken-auf-Wacken/overview/</guid>
-      <description>Meine Übersicht mit aufklappbaren Abschnitten Dies ist eine Übersicht, die aufklappbare Abschnitte enthält.&#xA;Dieser Abschnitt enthält grundlegende Informationen zur Einführung.&#xA;Du kannst hier beliebigen Text schreiben und den Abschnitt auf- und zuklappen.&#xA;Hier sind weitere Informationen, die ebenfalls eingeklappt sind, bis man auf den Titel klickt.&#xA;Punkt 1 Punkt 2 Punkt 3 Das Fazit wird hier präsentiert. Dieser Text ist auch versteckt, bis der Nutzer ihn aufklappt.&#xA;Ein Beispiel mit Fettgedrucktem und Kursivem Text.</description>
+      <description>Meine Übersicht mit aufklappbaren Abschnitten Dies ist eine Übersicht, die aufklappbare Abschnitte enthält.&#xA;Abschnitt 1: Einführung&#xD;Dieser Abschnitt enthält grundlegende Informationen zur Einführung.&#xD;Du kannst hier beliebigen Text schreiben und den Abschnitt auf- und zuklappen.&#xD;Abschnitt 2: Weitere Informationen&#xD;Hier sind weitere Informationen, die ebenfalls eingeklappt sind, bis man auf den Titel klickt.&#xD;- Punkt 1&#xD;- Punkt 2&#xD;- Punkt 3&#xD;Abschnitt 3: Fazit&#xD;Das Fazit wird hier präsentiert. Dieser Text ist auch versteckt, bis der Nutzer ihn aufklappt.</description>
     </item>
   </channel>
 </rss>
