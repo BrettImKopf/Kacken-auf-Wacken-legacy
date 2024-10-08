@@ -7,7 +7,7 @@ Mach den Karton auf und leg die Karten wie folgt aus: <br>
 
 <img src="/images/Spielfeld.png" alt="Spielfeld" width="300" height="300">
 
-
+![Spielfeld](images/Spielfeld.png)
 {{< /accordion >}}
 
 {{< accordion title="Ablauf" >}}
