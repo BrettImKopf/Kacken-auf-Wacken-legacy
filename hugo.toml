@@ -27,9 +27,8 @@ theme = "hugo-blog-awesome"
   url = '/posts/'
   weight = 20
 [[menu.main]]
-  pageRef="about"
-  name = 'Über mich'
-  url = '/about/'
+  name = 'Übersicht'
+  url = '/overview/'
   weight = 30
 
 [params.author]
