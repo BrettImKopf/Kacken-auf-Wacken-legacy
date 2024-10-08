@@ -35,7 +35,7 @@ theme = "hugo-blog-awesome"
 [params.author]
   avatar = "Titel.png"
   intro = "Kacken auf Wacken"
-  name = "Brett Im Kopf"
+  name = "BrettImKopf"
   description = "Ein kleines aber feines Kartenspiel über das Kacken auf Wacken. Check das!"
 
 
