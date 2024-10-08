@@ -1,21 +1,25 @@
-# Meine Übersicht mit aufklappbaren Abschnitten
+# Schnellanleitung
 
-Dies ist eine Übersicht, die aufklappbare Abschnitte enthält.
+So funktioniert's:
 
-{{< accordion title="Abschnitt 1: Einführung" >}}
-Dieser Abschnitt enthält grundlegende Informationen zur Einführung.
+{{< accordion title="Spielaufbau" >}}
+Mach den Karton auf und leg die Karten wie folgt aus:
 
-Du kannst hier beliebigen Text schreiben und den Abschnitt auf- und zuklappen.
+Bla
+
 {{< /accordion >}}
 
-{{< accordion title="Abschnitt 2: Weitere Informationen" >}}
+{{< accordion title="Ablauf" >}}
 Hier sind weitere Informationen, die ebenfalls eingeklappt sind, bis man auf den Titel klickt.
 
-- Punkt 1
-- Punkt 2
-- Punkt 3
+- Startspieler
+Der mit den längsten Haaren fängt an
+- Runde
+Karte ziehen, Aktion ausführen
+- Ende
+Einer gewinnt.
 {{< /accordion >}}
 
-{{< accordion title="Abschnitt 3: Fazit" >}}
-Das Fazit wird hier präsentiert. Dieser Text ist auch versteckt, bis der Nutzer ihn aufklappt.
+{{< accordion title="Tipps" >}}
+Mach doch watte wills
 {{< /accordion >}}
