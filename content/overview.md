@@ -5,9 +5,9 @@ So funktioniert's:
 {{< accordion title="Spielaufbau" >}}
 Mach den Karton auf und leg die Karten wie folgt aus: <br>
 
-<img src="/images/Spielfeld.png" alt="Spielfeld" width="300" height="300">
+<img src="static/images/Spielfeld.png" alt="Spielfeld" width="300" height="300">
 <br>
-![Spielfeld](/images/Spielfeld.png) 
+![Spielfeld](/../images/Spielfeld.png) 
 <br>
 {{< /accordion >}}
 
