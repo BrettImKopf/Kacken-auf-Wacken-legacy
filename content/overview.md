@@ -3,24 +3,19 @@
 So funktioniert's:
 
 {{< accordion title="Spielaufbau" >}}
-Mach den Karton auf und leg die Karten wie folgt aus:
+Mach den Karton auf und leg die Karten wie folgt aus: <br>
 
-Bla
+<img src="/images/Spielfeld.png" alt="Spielfeld" width="300" height="300">
+
 
 {{< /accordion >}}
 
 {{< accordion title="Ablauf" >}}
-
-- Startspieler
-
-Der mit den längsten Haaren fängt an
-
-- Runde
-
-Karte ziehen, Aktion ausführen
-
-- Ende
-
+- Startspieler <br>
+Der mit den längsten Haaren fängt an <br>
+- Runde <br>
+Karte ziehen, Aktion ausführen <br>
+- Ende <br>
 Einer gewinnt.
 {{< /accordion >}}
 
