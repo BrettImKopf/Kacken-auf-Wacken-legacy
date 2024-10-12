@@ -2,10 +2,9 @@
 
 So funktioniert's:
 
-{{< figure src="/Kacken-auf-Wacken/images/spielfeld.png" alt="Startseitenbild" >}}
+{{< figure src="../images/spielfeld.png" alt="Startseitenbild" >}}
 
 <br>
-<image src="/Kacken-auf-Wacken/images/Spielfeld.png" alt="Bildbeschreibung">
 {{< accordion title="Spielaufbau" >}}
 Mach den Karton auf und leg die Karten wie folgt aus: <br>
 
