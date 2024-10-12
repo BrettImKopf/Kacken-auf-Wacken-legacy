@@ -4,7 +4,8 @@
     <title>Categories on Kacken auf Wacken</title>
     <link>http://localhost:1313/Kacken-auf-Wacken/categories/</link>
     <description>Recent content in Categories on Kacken auf Wacken</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="http://localhost:1313/Kacken-auf-Wacken/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="http://localhost:1313/Kacken-auf-Wacken/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

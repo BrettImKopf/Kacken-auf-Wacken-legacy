@@ -4,66 +4,23 @@
     <title>Kacken auf Wacken</title>
     <link>http://localhost:1313/Kacken-auf-Wacken/</link>
     <description>Recent content on Kacken auf Wacken</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 27 Sep 2024 14:17:10 +0200</lastBuildDate><atom:link href="http://localhost:1313/Kacken-auf-Wacken/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Sep 2024 14:17:10 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/Kacken-auf-Wacken/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kacken auf Wacken ist da!</title>
       <link>http://localhost:1313/Kacken-auf-Wacken/posts/202409271417/</link>
       <pubDate>Fri, 27 Sep 2024 14:17:10 +0200</pubDate>
-      
       <guid>http://localhost:1313/Kacken-auf-Wacken/posts/202409271417/</guid>
-      
-      <description>&lt;h2 id=&#34;tach-auch&#34;&gt;Tach auch&lt;/h2&gt;
-&lt;p&gt;Herzlich willkommen auf der Seite &lt;strong&gt;Kacken auf Wacken&lt;/strong&gt;.
-Hier wird sich in den nächsten Tagen viel tun! Also mehr Text z.B.
-Also bis bald!&lt;/p&gt;</description>
-      
+      <description>&lt;h2 id=&#34;tach-auch&#34;&gt;Tach auch&lt;/h2&gt;&#xA;&lt;p&gt;Herzlich willkommen auf der Seite &lt;strong&gt;Kacken auf Wacken&lt;/strong&gt;.&#xA;Hier wird sich in den nächsten Tagen viel tun! Also mehr Text z.B.&#xA;Also bis bald!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>http://localhost:1313/Kacken-auf-Wacken/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/Kacken-auf-Wacken/overview/</guid>
-      
-      <description>&lt;h1 id=&#34;schnellanleitung&#34;&gt;Schnellanleitung&lt;/h1&gt;
-&lt;p&gt;So funktioniert&amp;rsquo;s:&lt;/p&gt;
-&lt;details&gt;
-   &lt;summary&gt;Spielaufbau&lt;/summary&gt;
-   &lt;div class=&#34;content&#34;&gt;
-Mach den Karton auf und leg die Karten wie folgt aus: &lt;br&gt;
-
-&lt;img src=&#34;http://localhost:1313/Kacken-auf-Wacken/Spielfeld.png&#34; alt=&#34;Spielfeld&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;
-&lt;br&gt;
-![Spielfeld](/Spielfeld.png) 
-&lt;br&gt;
-&lt;image src=&#34;http://localhost:1313/Kacken-auf-Wacken/images/Spielfeld.png&#34; alt=&#34;Bildbeschreibung&#34;&gt;
-
-&lt;/div&gt;
-&lt;/details&gt;
-
-&lt;details&gt;
-   &lt;summary&gt;Ablauf&lt;/summary&gt;
-   &lt;div class=&#34;content&#34;&gt;
-- Startspieler &lt;br&gt;
-Der mit den längsten Haaren fängt an &lt;br&gt;
-- Runde &lt;br&gt;
-Karte ziehen, Aktion ausführen &lt;br&gt;
-- Ende &lt;br&gt;
-Einer gewinnt.
-&lt;/div&gt;
-&lt;/details&gt;
-
-&lt;details&gt;
-   &lt;summary&gt;Tipps&lt;/summary&gt;
-   &lt;div class=&#34;content&#34;&gt;
-Mach doch watte wills
-&lt;/div&gt;
-&lt;/details&gt;</description>
-      
+      <description>&lt;h1 id=&#34;schnellanleitung&#34;&gt;Schnellanleitung&lt;/h1&gt;&#xA;&lt;p&gt;So funktioniert&amp;rsquo;s:&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/Kacken-auf-Wacken/Kacken-auf-Wacken/images/spielfeld.png&#34;&#xA;    alt=&#34;Startseitenbild&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;details&gt;&#xD;&#xA;   &lt;summary&gt;Ablauf&lt;/summary&gt;&#xD;&#xA;   &lt;div class=&#34;content&#34;&gt;&#xD;&#xA;- Startspieler &lt;br&gt;&#xD;&#xA;Der mit den längsten Haaren fängt an &lt;br&gt;&#xD;&#xA;- Runde &lt;br&gt;&#xD;&#xA;Karte ziehen, Aktion ausführen &lt;br&gt;&#xD;&#xA;- Ende &lt;br&gt;&#xD;&#xA;Einer gewinnt.&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/details&gt;&#xD;&#xA;&#xA;&lt;details&gt;&#xD;&#xA;   &lt;summary&gt;Tipps&lt;/summary&gt;&#xD;&#xA;   &lt;div class=&#34;content&#34;&gt;&#xD;&#xA;Mach doch watte wills&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/details&gt;</description>
     </item>
-    
   </channel>
 </rss>

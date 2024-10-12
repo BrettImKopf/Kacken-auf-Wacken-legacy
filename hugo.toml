@@ -1,20 +1,20 @@
 baseURL = 'https://brettimkopf.github.io/Kacken-auf-Wacken/'
 languageCode = 'de-de'
 title = 'Kacken auf Wacken'
-theme = "hugo-blog-awesome"
+theme = "hello-friend-ng"
 
 
 
 [services]
 # To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
 # To disable Google Analytics, simply leave the field empty or remove the next two lines
-[services.googleAnalytics]
-  id = '' # G-MEASUREMENT_ID
+#[services.googleAnalytics]
+#  id = '' # G-MEASUREMENT_ID
 
 [params]
   goToTop = true
   defaultColor = "light"
-
+	enableThemeToggle = true
 [menu]
 [[menu.main]]
   pageRef="/"
@@ -22,29 +22,36 @@ theme = "hugo-blog-awesome"
   url = '/'
   weight = 10
 [[menu.main]]
-  pageRef="posts"
-  name = 'Beiträge'
-  url = '/posts/'
-  weight = 20
-[[menu.main]]
   pageRef="overview"
   name = 'Übersicht'
   url = '/overview/'
+  weight = 20
+[[menu.main]]
+  pageRef="posts"
+  name = 'Beiträge'
+  url = '/posts/'
   weight = 30
 
 [params.author]
-  avatar = "Titel.png"
-  intro = "Kacken auf Wacken"
+  #avatar = "Titel.png"
+  #intro = "Kacken auf Wacken"
   name = "BrettImKopf"
-  description = "AAAEin kleines aber feines Kartenspiel über das Kacken auf Wacken. Check das!"
+
+[params.footer]
+  trademark = 2024
+    
+    copyright = true
+    author = true
+
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+      "by <a href=\"https://github.com/BrettImKopf\">BrettImKopf</a>"
+    ]
 
 
 
-
-[[params.socialIcons]]
+[[params.social]]
 name = "github"
 url = "https://github.com/BrettImKopf"
 
-[[params.socialIcons]]
-name = "Rss"
-url = "index.xml"
