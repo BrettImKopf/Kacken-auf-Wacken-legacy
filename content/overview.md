@@ -6,7 +6,7 @@ So funktioniert's:
 
 <br>
 {{< accordion title="Spielaufbau" >}}
-Mach den Karton auf und leg die Karten wie folgt aus: <br>
+Mach mal den Karton auf und leg die Karten wie folgt aus: <br>
 
 
 
