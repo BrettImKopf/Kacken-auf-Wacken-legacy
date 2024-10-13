@@ -1,5 +1,5 @@
 baseURL = "https://brettimkopf.github.io/Kacken-auf-Wacken"
-title        = "Kacken auf Wacken"
+title        = "Das Spiel"
 theme        = "hello-friend-ng"
 paginate     = 10
 
@@ -10,7 +10,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
  enableThemeToggle = true
   # Subtitle for home
-  homeSubtitle = "Das Spiel"
+  homeSubtitle = ""
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
