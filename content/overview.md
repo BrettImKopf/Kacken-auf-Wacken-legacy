@@ -2,14 +2,13 @@
 
 So funktioniert es:
 
-{{< figure src="{{ .Site.BaseURL }}images/spielfeld.png" alt="Startseitenbild" >}}
+
 
 <br>
+
 {{< accordion title="Spielaufbau" >}}
 Mach jetzt den Karton auf und leg die Karten wie folgt aus: <br>
-
-
-
+{{<figure src="/images/Spielfeld.png" alt="Bildbeschreibung" position="center" style="border-radius: 800px;" >}}
 {{< /accordion >}}
 
 {{< accordion title="Ablauf" >}}
