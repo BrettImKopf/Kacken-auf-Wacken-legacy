@@ -8,7 +8,7 @@ So funktioniert es:
 
 {{< accordion title="Spielaufbau" >}}
 Mach jetzt den Karton auf und leg die Karten wie folgt aus: <br>
-{{<figure src="/images/Spielfeld.png" alt="Bildbeschreibung" position="center" style="border-radius: 800px;" >}}
+{{<figure src="https://brettimkopf.github.io/Kacken-auf-Wacken/images/Spielfeld.png" alt="Spielfeld" position="center" style="border-radius: 800px;" >}}
 {{< /accordion >}}
 
 {{< accordion title="Ablauf" >}}
