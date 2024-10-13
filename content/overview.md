@@ -2,7 +2,8 @@
 
 So funktioniert's:
 
-{{< figure src="/images/spielfeld.png" alt="Startseitenbild" >}}
+![Startseitenbild](/images/spielfeld.png)
+
 
 <br>
 {{< accordion title="Spielaufbau" >}}
