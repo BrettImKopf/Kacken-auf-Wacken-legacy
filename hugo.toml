@@ -1,4 +1,4 @@
-baseURL = ""https://brettimkopf.github.io/Kacken-auf-Wacken""
+baseURL = "https://brettimkopf.github.io/Kacken-auf-Wacken"
 title        = "Kacken auf Wacken"
 theme        = "hello-friend-ng"
 paginate     = 10

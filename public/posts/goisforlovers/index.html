@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <head><script src="/Kacken-auf-Wacken/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=Kacken-auf-Wacken/livereload" data-no-instant defer></script>
         <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
@@ -12,7 +12,7 @@ This document is a brief primer on using Go templates. The Go docs provide more 
 <meta name="keywords" content="Wacken, go, golang, templates, themes, development" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
-<link rel="canonical" href="http://localhost:1313/posts/goisforlovers/" />
+<link rel="canonical" href="http://localhost:1313/Kacken-auf-Wacken/posts/goisforlovers/" />
 
 
     <title>
@@ -25,16 +25,16 @@ This document is a brief primer on using Go templates. The Go docs provide more 
 
 
 
-<link rel="stylesheet" href="/main.949191c1dcc9c4a887997048b240354e47152016d821198f89448496ba42e491.css" integrity="sha256-lJGRwdzJxKiHmXBIskA1TkcVIBbYIRmPiUSElrpC5JE=">
+<link rel="stylesheet" href="/Kacken-auf-Wacken/main.949191c1dcc9c4a887997048b240354e47152016d821198f89448496ba42e491.css" integrity="sha256-lJGRwdzJxKiHmXBIskA1TkcVIBbYIRmPiUSElrpC5JE=">
 
 
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
-    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Kacken-auf-Wacken/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Kacken-auf-Wacken/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Kacken-auf-Wacken/favicon-16x16.png">
+    <link rel="manifest" href="/Kacken-auf-Wacken/site.webmanifest">
+    <link rel="mask-icon" href="/Kacken-auf-Wacken/safari-pinned-tab.svg" color="">
+    <link rel="shortcut icon" href="/Kacken-auf-Wacken/favicon.ico">
     <meta name="msapplication-TileColor" content="">
 
 
@@ -45,18 +45,18 @@ This document is a brief primer on using Go templates. The Go docs provide more 
   <meta itemprop="datePublished" content="2014-04-02T00:00:00+00:00">
   <meta itemprop="dateModified" content="2014-04-02T00:00:00+00:00">
   <meta itemprop="wordCount" content="1487">
-  <meta itemprop="image" content="http://localhost:1313/">
+  <meta itemprop="image" content="http://localhost:1313/Kacken-auf-Wacken/">
   <meta itemprop="keywords" content="Go,Golang,Templates,Themes,Development">
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:1313/">
+  <meta name="twitter:image" content="http://localhost:1313/Kacken-auf-Wacken/">
   <meta name="twitter:title" content="(Hu)go Template Primer">
   <meta name="twitter:description" content="Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
 This document is a brief primer on using Go templates. The Go docs provide more details.">
 
 
 
-    <meta property="og:url" content="http://localhost:1313/posts/goisforlovers/">
+    <meta property="og:url" content="http://localhost:1313/Kacken-auf-Wacken/posts/goisforlovers/">
   <meta property="og:site_name" content="Kacken auf Wacken">
   <meta property="og:title" content="(Hu)go Template Primer">
   <meta property="og:description" content="Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
@@ -71,10 +71,10 @@ This document is a brief primer on using Go templates. The Go docs provide more 
     <meta property="article:tag" content="Templates">
     <meta property="article:tag" content="Themes">
     <meta property="article:tag" content="Development">
-    <meta property="og:image" content="http://localhost:1313/">
-      <meta property="og:see_also" content="http://localhost:1313/posts/creating-a-new-theme/">
-      <meta property="og:see_also" content="http://localhost:1313/posts/migrate-from-jekyll/">
-      <meta property="og:see_also" content="http://localhost:1313/posts/hugoisforlovers/">
+    <meta property="og:image" content="http://localhost:1313/Kacken-auf-Wacken/">
+      <meta property="og:see_also" content="http://localhost:1313/Kacken-auf-Wacken/posts/creating-a-new-theme/">
+      <meta property="og:see_also" content="http://localhost:1313/Kacken-auf-Wacken/posts/migrate-from-jekyll/">
+      <meta property="og:see_also" content="http://localhost:1313/Kacken-auf-Wacken/posts/hugoisforlovers/">
 
 
 
@@ -106,7 +106,7 @@ This document is a brief primer on using Go templates. The Go docs provide more 
         <div class="container">
             <header class="header">
     <span class="header__inner">
-        <a href="/" style="text-decoration: none;">
+        <a href="/Kacken-auf-Wacken" style="text-decoration: none;">
     <div class="logo">
         
             <span class="logo__mark">></span>
@@ -125,7 +125,7 @@ This document is a brief primer on using Go templates. The Go docs provide more 
         <span class="header__right">
             
                 <nav class="menu">
-    <ul class="menu__inner"><li><a href="/">Startseite</a></li><li><a href="/overview/">Übersicht</a></li>
+    <ul class="menu__inner"><li><a href="/Kacken-auf-Wacken/">Startseite</a></li><li><a href="/Kacken-auf-Wacken/overview/">Übersicht</a></li>
     </ul>
 </nav>
 
@@ -164,7 +164,7 @@ This document is a brief primer on using Go templates. The Go docs provide more 
 
     <article>
       <h1 class="post-title">
-        <a href="http://localhost:1313/posts/goisforlovers/">(Hu)go Template Primer</a>
+        <a href="http://localhost:1313/Kacken-auf-Wacken/posts/goisforlovers/">(Hu)go Template Primer</a>
       </h1>
 
       
@@ -418,11 +418,11 @@ so, such as in this example:</p>
     <p>
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg>
 
-        <span class="tag"><a href="http://localhost:1313/tags/go/">go</a></span>
-        <span class="tag"><a href="http://localhost:1313/tags/golang/">golang</a></span>
-        <span class="tag"><a href="http://localhost:1313/tags/templates/">templates</a></span>
-        <span class="tag"><a href="http://localhost:1313/tags/themes/">themes</a></span>
-        <span class="tag"><a href="http://localhost:1313/tags/development/">development</a></span>
+        <span class="tag"><a href="http://localhost:1313/Kacken-auf-Wacken/tags/go/">go</a></span>
+        <span class="tag"><a href="http://localhost:1313/Kacken-auf-Wacken/tags/golang/">golang</a></span>
+        <span class="tag"><a href="http://localhost:1313/Kacken-auf-Wacken/tags/templates/">templates</a></span>
+        <span class="tag"><a href="http://localhost:1313/Kacken-auf-Wacken/tags/themes/">themes</a></span>
+        <span class="tag"><a href="http://localhost:1313/Kacken-auf-Wacken/tags/development/">development</a></span>
         
     </p>
 
@@ -430,8 +430,8 @@ so, such as in this example:</p>
     <p>
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-folder meta-icon"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
 
-        <span class="tag"><a href="http://localhost:1313/categories/development/">Development</a></span>
-        <span class="tag"><a href="http://localhost:1313/categories/golang/">golang</a></span>
+        <span class="tag"><a href="http://localhost:1313/Kacken-auf-Wacken/categories/development/">Development</a></span>
+        <span class="tag"><a href="http://localhost:1313/Kacken-auf-Wacken/categories/golang/">golang</a></span>
         
     </p>
 
@@ -471,7 +471,7 @@ so, such as in this example:</p>
         <div class="pagination__buttons">
             
             <span class="button previous">
-                <a href="http://localhost:1313/posts/creation-dun-nouveau-theme/">
+                <a href="http://localhost:1313/Kacken-auf-Wacken/posts/creation-dun-nouveau-theme/">
                     <span class="button__icon">←</span>
                     <span class="button__text">Création d&#39;un nouveau thème</span>
                 </a>
@@ -480,7 +480,7 @@ so, such as in this example:</p>
 
             
             <span class="button next">
-                <a href="http://localhost:1313/posts/debuter-avec-hugo/">
+                <a href="http://localhost:1313/Kacken-auf-Wacken/posts/debuter-avec-hugo/">
                     <span class="button__text">Débuter avec Hugo</span>
                     <span class="button__icon">→</span>
                 </a>
@@ -506,7 +506,7 @@ so, such as in this example:</p>
     <div class="footer__inner">
         <div class="footer__content">
             <span>&copy; 2024</span>
-            <span><a href="http://localhost:1313/"></a></span>
+            <span><a href="http://localhost:1313/Kacken-auf-Wacken/"></a></span>
             <span></span>
             
             
@@ -529,7 +529,7 @@ so, such as in this example:</p>
 
 
 
-<script type="text/javascript" src="/bundle.min.e89fda0f29b95d33f6f4224dd9e5cf69d84aff3818be2b0d73e731689cc374261b016d17d46f8381962fb4a1577ba3017b1f23509d894f6e66431f988c00889e.js" integrity="sha512-6J/aDym5XTP29CJN2eXPadhK/zgYvisNc&#43;cxaJzDdCYbAW0X1G&#43;DgZYvtKFXe6MBex8jUJ2JT25mQx&#43;YjACIng=="></script>
+<script type="text/javascript" src="/Kacken-auf-Wacken/bundle.min.e89fda0f29b95d33f6f4224dd9e5cf69d84aff3818be2b0d73e731689cc374261b016d17d46f8381962fb4a1577ba3017b1f23509d894f6e66431f988c00889e.js" integrity="sha512-6J/aDym5XTP29CJN2eXPadhK/zgYvisNc&#43;cxaJzDdCYbAW0X1G&#43;DgZYvtKFXe6MBex8jUJ2JT25mQx&#43;YjACIng=="></script>
 
 
 
