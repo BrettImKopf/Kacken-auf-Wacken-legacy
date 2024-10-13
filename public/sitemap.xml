@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/posts/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/posts/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Kacken-auf-Wacken/</loc>
     <lastmod>2024-09-27T14:17:10+02:00</lastmod>
   </url><url>
@@ -11,10 +17,53 @@
     <loc>http://localhost:1313/Kacken-auf-Wacken/posts/</loc>
     <lastmod>2024-09-27T14:17:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/overview/</loc>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/posts/creation-dun-nouveau-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/categories/</loc>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/series/hugo-101/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/series/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/posts/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/posts/debuter-avec-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/posts/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/posts/introduction-aux-modeles-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Kacken-auf-Wacken/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/posts/migrer-vers-hugo-depuis-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/overview/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/blog/</loc>
   </url>
 </urlset>
