@@ -1,29 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Kacken auf Wacken</title>
-        <link>http://localhost:1313/Kacken-auf-Wacken/posts/</link>
-        <description>Recent content in Posts on Kacken auf Wacken</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>de-de</language>
-        <lastBuildDate>Fri, 27 Sep 2024 14:17:10 +0200</lastBuildDate>
-        <atom:link href="http://localhost:1313/Kacken-auf-Wacken/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Kacken auf Wacken ist da!</title>
-            <link>http://localhost:1313/Kacken-auf-Wacken/posts/202409271417/</link>
-            <pubDate>Fri, 27 Sep 2024 14:17:10 +0200</pubDate>
-            
-            <guid>http://localhost:1313/Kacken-auf-Wacken/posts/202409271417/</guid>
-            <description>&lt;h2 id=&#34;tach-auch&#34;&gt;Tach auch&lt;/h2&gt;
-&lt;p&gt;Herzlich willkommen auf der Seite &lt;strong&gt;Kacken auf Wacken&lt;/strong&gt;.
-Hier wird sich in den nächsten Tagen viel tun! Also mehr Text z.B.
-Also bis bald!&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<h2 id="tach-auch">Tach auch</h2>
-<p>Herzlich willkommen auf der Seite <strong>Kacken auf Wacken</strong>.
-Hier wird sich in den nächsten Tagen viel tun! Also mehr Text z.B.
-Also bis bald!</p>
-]]></content>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Posts on Kacken auf Wacken</title>
+    <link>http://localhost:1313/Kacken-auf-Wacken/posts/</link>
+    <description>Recent content in Posts on Kacken auf Wacken</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 27 Sep 2024 14:17:10 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/Kacken-auf-Wacken/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kacken auf Wacken ist da!</title>
+      <link>http://localhost:1313/Kacken-auf-Wacken/posts/202409271417/</link>
+      <pubDate>Fri, 27 Sep 2024 14:17:10 +0200</pubDate>
+      <guid>http://localhost:1313/Kacken-auf-Wacken/posts/202409271417/</guid>
+      <description>&lt;h2 id=&#34;tach-auch&#34;&gt;Tach auch&lt;/h2&gt;&#xA;&lt;p&gt;Herzlich willkommen auf der Seite &lt;strong&gt;Kacken auf Wacken&lt;/strong&gt;.&#xA;Hier wird sich in den nächsten Tagen viel tun! Also mehr Text z.B.&#xA;Also bis bald!&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
