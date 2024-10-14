@@ -1,7 +1,6 @@
 baseURL = "https://brettimkopf.github.io/Kacken-auf-Wacken"
-title        = "Das Spiel"
+title        = "Kacken auf Wacken - Das Spiel"
 theme        = "hello-friend-ng"
-paginate     = 10
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -10,7 +9,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
  enableThemeToggle = true
   # Subtitle for home
-  homeSubtitle = ""
+  homeSubtitle = "Das ultimative Metalhead - Kartenspiel"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -37,11 +36,22 @@ paginate     = 10
     identifier = "main"
     name       = "Startseite"
     url        = "/"  
-  
+	weight=10
   [[menu.main]]
-    identifier = "overview"
-    name       = "Übersicht"
-    url        = "overview/"
+    identifier = "quickstart"
+    name       = "Quickstart"
+    url        = "quickstart/"
+	weight=20
+  [[menu.main]]
+    identifier = "introduction"
+    name       = "Einführung"
+    url        = "introduction/"
+	weight=30
+  [[menu.main]]
+    identifier = "tutorials"
+    name       = "Tutorials+FAQs"
+    url        = "tutorials/"
+	weight=40
 	
 [params.author]
   #avatar = "Titel.png"
