@@ -14,7 +14,7 @@ Die Regeln in Kurzform für eilige:
         <button class="accordion-toggle" aria-expanded="false">Aufbau</button>
         <div class="accordion-content">
 			<h2>Leg die Karten so aus:</h2>
-		    <img src="/images/Spielfeld.png" alt="Spielfeld" style="width:100%; border-radius: 800px;">
+		    <img src="images/Spielfeld.png" alt="Spielfeld" style="width:100%; border-radius: 800px;">
 			<p>Der Inhalt von Kapitel 1.</p>
         </div>
     </div>
