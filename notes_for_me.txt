@@ -1,2 +1,0 @@
-So funktioniert ein Bild lokal in der content\overview.md:
-{{< figure src="../images/spielfeld.png" alt="Startseitenbild" >}}

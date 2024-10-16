@@ -1,227 +1,161 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/style.css">
+  <title>Quickstart</title>
+  <style>
+  img {
+  max-width: 100%;  
+  height: auto;  
+  display: block;  
+  margin: 0 auto;  
+}
 
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="author" content="">
-<meta name="description" content="Schnellanleitung So funktioniert es:
-SpielaufbauMach jetzt den Karton auf und leg die Karten wie folgt aus: Ablauf- Startspieler Der mit den längsten Haaren fängt an - Runde Karte ziehen, Aktion ausführen - Ende Einer gewinnt.TippsMach doch watte wills" />
-<meta name="keywords" content="Wacken" />
-<meta name="robots" content="noodp" />
-<meta name="theme-color" content="" />
-<link rel="canonical" href="https://brettimkopf.github.io/Kacken-auf-Wacken/quickstart/" />
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
 
+     
+    nav {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background-color: #333;
+      color: white;
+      padding: 1rem;
+      z-index: 10;
+    }
 
-    <title>
-        
-             :: Kacken auf Wacken - Das Spiel 
-        
-    </title>
+    nav ul {
+      list-style-type: none;
+      display: flex;
+      justify-content: space-around;
+      margin: 0;
+      padding: 0;
+    }
 
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      padding: 10px 15px;
+      display: block;
+    }
 
+    nav ul li a.active {
+      border-bottom: 2px solid white;
+    }
 
+     
+    .swiper-container {
+      width: 100%;
+      height: 100vh;
+      margin-top: 80px;  
+    }
 
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f0f0f0;
+    }
+  </style>
+</head>
+<body>
 
-<link rel="stylesheet" href="/Kacken-auf-Wacken/main.949191c1dcc9c4a887997048b240354e47152016d821198f89448496ba42e491.css" integrity="sha256-lJGRwdzJxKiHmXBIskA1TkcVIBbYIRmPiUSElrpC5JE=">
-
-
-
-    <link rel="apple-touch-icon" sizes="180x180" href="/Kacken-auf-Wacken/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/Kacken-auf-Wacken/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/Kacken-auf-Wacken/favicon-16x16.png">
-    <link rel="manifest" href="/Kacken-auf-Wacken/site.webmanifest">
-    <link rel="mask-icon" href="/Kacken-auf-Wacken/safari-pinned-tab.svg" color="">
-    <link rel="shortcut icon" href="/Kacken-auf-Wacken/favicon.ico">
-    <meta name="msapplication-TileColor" content="">
-
-
-
-  <meta itemprop="name" content="Kacken auf Wacken - Das Spiel">
-  <meta itemprop="description" content="Schnellanleitung So funktioniert es:
-SpielaufbauMach jetzt den Karton auf und leg die Karten wie folgt aus: Ablauf- Startspieler Der mit den längsten Haaren fängt an - Runde Karte ziehen, Aktion ausführen - Ende Einer gewinnt.TippsMach doch watte wills">
-  <meta itemprop="wordCount" content="42">
-  <meta itemprop="image" content="https://brettimkopf.github.io/Kacken-auf-Wacken/">
-
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://brettimkopf.github.io/Kacken-auf-Wacken/">
-  <meta name="twitter:title" content="Kacken auf Wacken - Das Spiel">
-  <meta name="twitter:description" content="Schnellanleitung So funktioniert es:
-SpielaufbauMach jetzt den Karton auf und leg die Karten wie folgt aus: Ablauf- Startspieler Der mit den längsten Haaren fängt an - Runde Karte ziehen, Aktion ausführen - Ende Einer gewinnt.TippsMach doch watte wills">
-
-
-
-    <meta property="og:url" content="https://brettimkopf.github.io/Kacken-auf-Wacken/quickstart/">
-  <meta property="og:site_name" content="Kacken auf Wacken - Das Spiel">
-  <meta property="og:title" content="Kacken auf Wacken - Das Spiel">
-  <meta property="og:description" content="Schnellanleitung So funktioniert es:
-SpielaufbauMach jetzt den Karton auf und leg die Karten wie folgt aus: Ablauf- Startspieler Der mit den längsten Haaren fängt an - Runde Karte ziehen, Aktion ausführen - Ende Einer gewinnt.TippsMach doch watte wills">
-  <meta property="og:locale" content="en">
-  <meta property="og:type" content="article">
-    <meta property="og:image" content="https://brettimkopf.github.io/Kacken-auf-Wacken/">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </head>
-
-    
-        <body>
-    
-    
-        <div class="container">
-            <header class="header">
-    <span class="header__inner">
-        <a href="/Kacken-auf-Wacken" style="text-decoration: none;">
-    <div class="logo">
-        
-            <span class="logo__mark">></span>
-            <span class="logo__text ">
-                hello</span>
-            <span class="logo__cursor" style=
-                  "
-                   
-                   ">
-            </span>
-        
-    </div>
-</a>
-
-
-        <span class="header__right">
-            
-                <nav class="menu">
-    <ul class="menu__inner"><li><a href="/Kacken-auf-Wacken/">Startseite</a></li><li><a href="/Kacken-auf-Wacken/quickstart/">Quickstart</a></li><li><a href="/Kacken-auf-Wacken/introduction/">Einführung</a></li><li><a href="/Kacken-auf-Wacken/tutorials/">Tutorials&#43;FAQs</a></li>
+  
+  <nav>
+    <ul>
+      
+      <li><a href="#main" class="menu-item" data-slide="1">Startseite</a></li>
+      
+      <li><a href="#quickstart" class="menu-item" data-slide="2">Quickstart</a></li>
+      
+      <li><a href="#introduction" class="menu-item" data-slide="3">Einführung</a></li>
+      
+      <li><a href="#tutorials" class="menu-item" data-slide="4">Tutorials&#43;FAQs</a></li>
+      
     </ul>
-</nav>
+  </nav>
 
-                <span class="menu-trigger">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                        <path d="M0 0h24v24H0z" fill="none"/>
-                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
-                    </svg>
-                </span>
-            
-                <span class="theme-toggle not-selectable"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-   <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
-   3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
-   13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
- </svg></span>
-        </span>
-    </span>
-</header>
-
-
-            <div class="content">
-                
-    <main class="post">
-
-        <div class="post-info">
-            
-            </p>
-        </div>
-
-        <article>
-            <h2 class="post-title"><a href="https://brettimkopf.github.io/Kacken-auf-Wacken/quickstart/"></a></h2>
-
-            
-            
-            
-
-            <div class="post-content">
-                <h1 id="schnellanleitung">Schnellanleitung</h1>
-<p>So funktioniert es:</p>
-<!-- raw HTML omitted -->
-<details>
-   <summary>Spielaufbau</summary>
-   <div class="content">
-Mach jetzt den Karton auf und leg die Karten wie folgt aus: <br>
-<figure><img src="https://brettimkopf.github.io/Kacken-auf-Wacken/images/Spielfeld.png"
-    alt="Spielfeld">
-</figure>
-
-</div>
-</details>
-
-<details>
-   <summary>Ablauf</summary>
-   <div class="content">
-- Startspieler <br>
-Der mit den längsten Haaren fängt an <br>
-- Runde <br>
-Karte ziehen, Aktion ausführen <br>
-- Ende <br>
-Einer gewinnt.
-</div>
-</details>
-
-<details>
-   <summary>Tipps</summary>
-   <div class="content">
-Mach doch watte wills
-</div>
-</details>
-
-
-            </div>
-        </article>
-
-        <hr />
-
-        <div class="post-info">
-            
-            
-  		</div>
-    </main>
-
-            </div>
-
-            
-                <footer class="footer">
-    
-    <div class="footer__inner">
-        <div class="footer__content">
-            <span>&copy; 2024</span>
-            <span><a href="https://brettimkopf.github.io/Kacken-auf-Wacken/"></a></span>
-            <span></span>
-            
-            
+  
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      
+<div class="content">
+    <div class="content-container">
+<h1 id="quickstart">Quickstart</h1>
+<p>Die Regeln in Kurzform für eilige:</p>
+<div class="accordion">
+    <div class="accordion-item">
+        <button class="accordion-toggle" aria-expanded="false">Aufbau</button>
+        <div class="accordion-content">
+			<h2>Leg die Karten so aus:</h2>
+		    <img src="/images/Spielfeld.png" alt="Spielfeld" style="width:100%; border-radius: 800px;">
+			<p>Der Inhalt von Kapitel 1.</p>
         </div>
     </div>
-    
-    
-    <div class="footer__inner">
-        <div class="footer__content">
-            <span>Powered by <a href="http://gohugo.io">Hugo</a></span><span>by <a href="https://github.com/BrettImKopf">BrettImKopf</a></span>
+    <div class="accordion-item">
+        <button class="accordion-toggle" aria-expanded="false">Kapitel 2</button>
+        <div class="accordion-content">
+            <p>Der Inhalt von Kapitel 2.</p>
         </div>
     </div>
+	</div>
+</div>
+
+</div>
+
+    </div>
+    <div class="swiper-pagination"></div>
+  </div>
+
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script>
+    var swiper = new Swiper('.swiper-container', {
+      slidesPerView: 1,
+      spaceBetween: 10,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+    });
+
     
-</footer>
+    document.querySelectorAll('.menu-item').forEach(function(menuItem) {
+      menuItem.addEventListener('click', function(e) {
+        e.preventDefault(); 
+        var slideIndex = this.getAttribute('data-slide'); 
+        console.log("Navigating to slide: ", slideIndex); 
+        swiper.slideTo(slideIndex - 1); 
+        updateActiveMenuItem(slideIndex - 1); 
+      });
+    });
 
-            
-        </div>
+    
+    function updateActiveMenuItem(index) {
+      const menuItems = document.querySelectorAll('.menu-item');
+      menuItems.forEach(function(menuItem) {
+        menuItem.classList.remove('active'); 
+      });
+      if (index >= 0 && index < menuItems.length) {
+        menuItems[index].classList.add('active'); 
+      }
+    }
 
-        
+    
+    swiper.on('slideChange', function () {
+      updateActiveMenuItem(swiper.activeIndex);
+    });
 
-
-
-<script type="text/javascript" src="/Kacken-auf-Wacken/bundle.min.e89fda0f29b95d33f6f4224dd9e5cf69d84aff3818be2b0d73e731689cc374261b016d17d46f8381962fb4a1577ba3017b1f23509d894f6e66431f988c00889e.js" integrity="sha512-6J/aDym5XTP29CJN2eXPadhK/zgYvisNc&#43;cxaJzDdCYbAW0X1G&#43;DgZYvtKFXe6MBex8jUJ2JT25mQx&#43;YjACIng=="></script>
-
-
-
-
-    </body>
+  </script>
+  
+	<script src="http://localhost:1313/js/accordion.js"></script>
+</body>
 </html>

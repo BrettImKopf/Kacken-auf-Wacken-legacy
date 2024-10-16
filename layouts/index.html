@@ -1,24 +1,31 @@
-{{ define "body" }}
-    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
-{{ end }}
-
 {{ define "main" }}
-    <main aria-role="main">
-        <div>
-		<img src="{{ .Site.BaseURL }}images/Titel.png" alt="Bildbeschreibung" position="center" style="border-radius: 80px;" >
-            {{ if .Site.Params.Portrait.Path }}
-               <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
-            {{ end }}
+  <!-- Swiper Slides -->
 
-            <h1>{{ .Site.Title }}</h1>
-
-            {{ partial "subtitle.html" . }}
-
-            {{- with .Site.Params.social }}
-                <div>
-                    {{ partial "social-icons.html" . }}
-                </div>
-            {{- end }}
+ <div class="swiper-slide" id="main">
+    <div class="content-container">
+        <div class="image-container">
+            <img src="{{ .Site.BaseURL }}images/Titel.png" alt="Bildbeschreibung" class="responsive-img">
         </div>
-    </main>
+        <div class="text-container">
+            <h1>Kacken auf Wacken</h1>
+			<h2>Das ultimative Kartenspiel für Metalheads</h2>
+        </div>
+    </div>
+</div>
+
+
+  <div class="swiper-slide" id="quickstart">
+	{{ $page := .Site.GetPage "quickstart" }}
+    {{ $page.Content | markdownify  }}
+  </div>
+  <div class="swiper-slide" id="introduction">
+	{{ "# teste"  | markdownify}}
+	{{ "## Dies ist ein Testtext" | markdownify }}
+	</div>
+  
+  <div class="swiper-slide" id="tutorials">
+	{{ $page := .Site.GetPage "tutorials" }}
+	{{ $rendered := $page.Content | markdownify}}
+	{{ $rendered }}
+</div>
 {{ end }}

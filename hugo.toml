@@ -1,72 +1,34 @@
-baseURL = "https://brettimkopf.github.io/Kacken-auf-Wacken"
-title        = "Kacken auf Wacken - Das Spiel"
-theme        = "hello-friend-ng"
-
+baseURL = "http://localhost:1313/"
+languageCode = "de-de"
+title = "Kacken auf Wacken"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
- enableThemeToggle = true
-  # Subtitle for home
-  homeSubtitle = "Das ultimative Metalhead - Kartenspiel"
+subtitle = "Dies ist mein Untertitel"
+[[menu.main]]
+  identifier = "main"
+  name = "Startseite"
+  link = "#main"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  identifier = "quickstart"
+  name = "Quickstart"
+  link = "#quickstart"
+  url = "/quickstart"
+  weight = 2
+[[menu.main]]
+  identifier = "introduction"
+  name = "Einführung"
+  link = "#introduction"
+  url = "/introduction"
+  weight = 3
 
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
-
-  # Enable sharing buttons, if you like
-  enableSharingButtons = false
-  
-  # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = false
-
-  # Metadata mostly used in document's head
-  description = "Kacken auf Wacken Anleitung"
-  keywords = "Wacken"
-  images = [""]
-
-[taxonomies]
-    category = "blog"
-    tag      = "tags"
-    series   = "series"
-
-
-  # And you can even create generic menu
-  [[menu.main]]
-    identifier = "main"
-    name       = "Startseite"
-    url        = "/"  
-	weight=10
-  [[menu.main]]
-    identifier = "quickstart"
-    name       = "Quickstart"
-    url        = "quickstart/"
-	weight=20
-  [[menu.main]]
-    identifier = "introduction"
-    name       = "Einführung"
-    url        = "introduction/"
-	weight=30
-  [[menu.main]]
-    identifier = "tutorials"
-    name       = "Tutorials+FAQs"
-    url        = "tutorials/"
-	weight=40
-	
-[params.author]
-  #avatar = "Titel.png"
-  #intro = "Kacken auf Wacken"
-  name = "BrettImKopf"
-	
-	
-	[params.footer]
-  trademark = 2024
-    
-    copyright = true
-    author = true
-
-    topText = []
-    bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "by <a href=\"https://github.com/BrettImKopf\">BrettImKopf</a>"
-    ]
+[[menu.main]]
+  identifier = "tutorials"
+  name = "Tutorials+FAQs"
+  link = "#tutorials"
+  url = "/tutorials"
+  weight = 4
