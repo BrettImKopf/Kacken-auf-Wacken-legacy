@@ -1,12 +1,16 @@
-baseURL = "https://brettimkopf.github.io/Kacken-auf-Wacken/"
+baseURL = "http://localhost:1313/"
 languageCode = "de-de"
 title = "Kacken auf Wacken"
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+theme = "zen"
+
 [params]
-subtitle = "Dies ist mein Untertitel"
+favicon = "favicon.png"
+icon = "favicon.png"
+sitename = false
+copyright = "© BrettImKopf"
+  menuInHeader = false        # Move the main menu to the header, default false.
+  mobileMenu = false          # Turn on a mobile menu on small screens, default false.
+  mobileMenuOutline = true   # Mobil menu button as outline, default false.
 [[menu.main]]
   identifier = "main"
   name = "Startseite"

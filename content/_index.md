@@ -1,5 +1,7 @@
----
-title: "Kacken auf Wacken"
----
++++
+title = "Main"
+date = "2024-10-16"
+draft = false
++++
 
-#Kacken auf Wacken
+Inhalt der _index.md

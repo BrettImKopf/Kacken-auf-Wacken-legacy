@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kacken auf Wacken</title>
+    <title>Main on Kacken auf Wacken</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Kacken auf Wacken</description>
+    <description>Recent content in Main on Kacken auf Wacken</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Einführung</title>
       <link>http://localhost:1313/introduction/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/introduction/</guid>
-      <description>&lt;p&gt;##Inhalt der Einführung-Seite.&lt;/p&gt;</description>
+      <description>&lt;p&gt;##Inhalt der Einführung-Seite.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Quickstart</title>
       <link>http://localhost:1313/quickstart/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/quickstart/</guid>
-      <description>&lt;div class=&#34;content-container&#34;&gt;&#xD;&#xA;&lt;h1 id=&#34;quickstart&#34;&gt;Quickstart&lt;/h1&gt;&#xA;&lt;p&gt;Die Regeln in Kurzform für eilige:&lt;/p&gt;&#xA;&lt;div class=&#34;accordion&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;accordion-item&#34;&gt;&#xD;&#xA;        &lt;button class=&#34;accordion-toggle&#34; aria-expanded=&#34;false&#34;&gt;Aufbau&lt;/button&gt;&#xD;&#xA;        &lt;div class=&#34;accordion-content&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;h2&gt;Leg die Karten so aus:&lt;/h2&gt;&#xD;&#xA;&#x9;&#x9;    &lt;img src=&#34;http://localhost:1313/images/Spielfeld.png&#34; alt=&#34;Spielfeld&#34; style=&#34;width:100%; border-radius: 800px;&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;p&gt;Der Inhalt von Kapitel 1.&lt;/p&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;accordion-item&#34;&gt;&#xD;&#xA;        &lt;button class=&#34;accordion-toggle&#34; aria-expanded=&#34;false&#34;&gt;Kapitel 2&lt;/button&gt;&#xD;&#xA;        &lt;div class=&#34;accordion-content&#34;&gt;&#xD;&#xA;            &lt;p&gt;Der Inhalt von Kapitel 2.&lt;/p&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#x9;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;die-regeln-in-kurzform-für-eilige&#34;&gt;Die Regeln in Kurzform für eilige:&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Leg die Karten so aus:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/images/Spielfeld.png&#34; loading=&#34;lazy&#34; alt=&#34;Example image.&#34;&gt;&#xD;&#xA;&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Hier kommt noch &lt;strong&gt;mehr&lt;/strong&gt; Text&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Tutorials</title>
       <link>http://localhost:1313/tutorials/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tutorials/</guid>
-      <description>&lt;p&gt;Hier ist ein Beispieltext mit &lt;strong&gt;fetter Schrift&lt;/strong&gt; und &lt;em&gt;kursiver Schrift&lt;/em&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hier ist ein Beispieltext mit &lt;strong&gt;fetter Schrift&lt;/strong&gt; und &lt;em&gt;kursiver Schrift&lt;/em&gt;.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>
