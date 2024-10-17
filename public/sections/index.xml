@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Mein Zen Projekt</title>
+    <link>http://localhost:1313/sections/</link>
+    <description>Recent content in Sections on Mein Zen Projekt</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
+      <atom:link href="http://localhost:1313/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Einführung</title>
+      <link>http://localhost:1313/sections/introduction/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sections/introduction/</guid>
+      <description>&lt;p&gt;##Inhalt der Einführung-Seite.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Quickstart</title>
+      <link>http://localhost:1313/sections/quickstart/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sections/quickstart/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;quickstart&#34;&gt;Quickstart&lt;/h1&gt;&#xA;&lt;p&gt;Die Regeln in Kurzform für eilige:&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Tutorials</title>
+      <link>http://localhost:1313/sections/tutorials/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sections/tutorials/</guid>
+      <description>&lt;p&gt;Hier ist ein Beispieltext mit &lt;strong&gt;fetter Schrift&lt;/strong&gt; und &lt;em&gt;kursiver Schrift&lt;/em&gt;.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
